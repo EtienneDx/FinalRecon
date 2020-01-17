@@ -8,7 +8,7 @@ if sys.version_info[0] < 3:
 
 root = tk.Tk()
 root.title("Final Recon")
-root.geometry("400x200")
+root.geometry("450x180")
 
 frame1 = tk.Frame(root)
 frame1.pack()
