@@ -91,5 +91,9 @@ python3 finalrecon.py --crawl <url>
 python3 finalrecon.py --full <url>
 ```
 
+## GUI
+
+To use the user interface (GUI), you need to [install tkinter](https://tkdocs.com/tutorial/install.html), and then simply run the _finalrecon_gui.py_ script. It can also be launched using the run.sh script.
+
 ## Demo
 [![Youtube](https://i.imgur.com/jY0V6ln.png)](https://www.youtube.com/watch?v=5s0ghojbUtQ)

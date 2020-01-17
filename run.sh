@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-python finalrecon_gui.py
+python3 finalrecon_gui.py
